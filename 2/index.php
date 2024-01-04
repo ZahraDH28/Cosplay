@@ -91,8 +91,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/1.jpg" class="card-img-top" alt="Image 1">
         <div class="card-body">
-          <h5 class="card-title">Rp.125.000</h5>
-          <p class="card-text">COstume Memcho</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Cosplay Memcho</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image1Modal">
@@ -107,8 +107,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/2.jpg" class="card-img-top" alt="Image 2">
         <div class="card-body">
-          <h5 class="card-title">Rp.125.000</h5>
-          <p class="card-text">Costume Hoshino Ruby</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image2Modal">
@@ -122,8 +122,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/3.jpg" class="card-img-top" alt="Image 3">
         <div class="card-body">
-          <h5 class="card-title">Rp.125.000</h5>
-          <p class="card-text">Costume Arima Kana</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image3Modal">
@@ -137,8 +137,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/4.jpg" class="card-img-top" alt="Image 4">
         <div class="card-body">
-          <h5 class="card-title">Rp.130.000</h5>
-          <p class="card-text">Costume Hoshino Ai</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image4Modal">
@@ -152,8 +152,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/5.jpg" class="card-img-top" alt="Image 5">
         <div class="card-body">
-          <h5 class="card-title">Rp.150.000</h5>
-          <p class="card-text">Costume Moona Hoshinova Yukata version</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image5Modal">
@@ -167,8 +167,8 @@
           <div class="card h-100">
             <img src="assets/img/costum/6.jpeg" class="card-img-top" alt="Image 6">
             <div class="card-body">
-              <h5 class="card-title">Rp.90.000</h5>
-              <p class="card-text">Costume Kana Kamui</p>
+              <h5 class="card-title">Rp.120.000</h5>
+              <p class="card-text">Kostum Kagura Cosplay</p>
             </div>
             <div class="card-footer">
               <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image6Modal">
@@ -182,8 +182,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/7.jpg" class="card-img-top" alt="Image 7">
         <div class="card-body">
-          <h5 class="card-title">Rp.185.000</h5>
-          <p class="card-text">Costume Kobo Kanaeru Yukata Version</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image7Modal">
@@ -197,8 +197,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/8.jpg" class="card-img-top" alt="Image 8">
         <div class="card-body">
-          <h5 class="card-title">Rp.60.000</h5>
-          <p class="card-text">Costume Doma Umaru</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image8Modal">
@@ -212,8 +212,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/9.jpg" class="card-img-top" alt="Image 9">
         <div class="card-body">
-          <h5 class="card-title">Rp.90.000</h5>
-          <p class="card-text">Costume Yor Forger</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image9Modal">
@@ -227,8 +227,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/10.jpg" class="card-img-top" alt="Image 10">
         <div class="card-body">
-          <h5 class="card-title">Rp.65.000</h5>
-          <p class="card-text">Costume Anya Forger</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image10Modal">
@@ -242,8 +242,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/11.jpg" class="card-img-top" alt="Image 11">
         <div class="card-body">
-          <h5 class="card-title">Rp.185.000</h5>
-          <p class="card-text">Costume Raiden Shogun</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image11Modal">
@@ -257,8 +257,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/12.jpg" class="card-img-top" alt="Image 12">
         <div class="card-body">
-          <h5 class="card-title">Rp.165.000</h5>
-          <p class="card-text">Costume Nahida</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image12Modal">
@@ -272,8 +272,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/13.jpg" class="card-img-top" alt="Image 13">
         <div class="card-body">
-          <h5 class="card-title">Rp.165.000</h5>
-          <p class="card-text">Costume Klee</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image13Modal">
@@ -287,8 +287,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/14.jpg" class="card-img-top" alt="Image 14">
         <div class="card-body">
-          <h5 class="card-title">Rp.65.000</h5>
-          <p class="card-text">Costume Hitori Gotou</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image14Modal">
@@ -303,7 +303,7 @@
         <img src="assets/img/costum/15.jpg" class="card-img-top" alt="Image 15">
         <div class="card-body">
           <h5 class="card-title">Rp.120.000</h5>
-          <p class="card-text">Costume Frieren</p>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image15Modal">
@@ -317,8 +317,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/16.jpg" class="card-img-top" alt="Image 16">
         <div class="card-body">
-          <h5 class="card-title">Rp.80.000</h5>
-          <p class="card-text">COstume Gawr Gura</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image16Modal">
@@ -332,8 +332,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/17.jpg" class="card-img-top" alt="Image 17">
         <div class="card-body">
-          <h5 class="card-title">Rp.130.000</h5>
-          <p class="card-text">Costum Eleina</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image17Modal">
@@ -347,8 +347,8 @@
       <div class="card h-100">
         <img src="assets/img/costum/18.jpg" class="card-img-top" alt="Image 18">
         <div class="card-body">
-          <h5 class="card-title">Rp.100.000</h5>
-          <p class="card-text">Cosplay Yuna</p>
+          <h5 class="card-title">Rp.120.000</h5>
+          <p class="card-text">Kostum Kagura Cosplay</p>
         </div>
         <div class="card-footer">
           <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#image18Modal">
@@ -369,16 +369,16 @@
         <section class="page-section bg-light" id="team">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Admin</h2>
+                    <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="..." />
-                            <h4>Hilmi Romadh oni</h4>
+                            <h4>Parveen Anand</h4>
                             <p class="text-muted">Lead Designer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Hilmi Romadhoni"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Facebook Profile"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
                         </div>
@@ -386,11 +386,21 @@
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="..." />
-                            <h4>Zahra Dia Handoko</h4>
+                            <h4>Diana Petersen</h4>
                             <p class="text-muted">Lead Marketer</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Facebook Profile"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                            <h4>Larry Parker</h4>
+                            <p class="text-muted">Lead Developer</p>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
                 </div>
